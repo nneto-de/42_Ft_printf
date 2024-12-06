@@ -24,7 +24,7 @@ Visual studio Code
 ## **How to view the Project**
 
 1. Clone the repository
-2. To compile the library you can run make in the terminal. 
+2. To compile you can run make in the terminal. 
 
 ## Additional Information
 
